@@ -1,0 +1,22 @@
+[{
+    "defaultAssetGroup":"Base",
+    "rulePriority":"firstRule",
+    "data":[
+       {
+          "id":"R-46095-174079-1557326275954",
+          "ruleName":"Ret_P2_CartAbandoner_FourPoints12"
+       },
+       {
+          "id":"R-44939-156358-1583215187320",
+          "ruleName":"Segment 1008"
+       },
+        {
+          "id":"R-46095-175585-1565263840595",
+          "ruleName":"Pros_P4_Contextual_Banners"
+       },
+       {
+          "id":"R-46095-170466-1550224789890",
+          "ruleName":"Base"
+       }
+    ]
+ }]
